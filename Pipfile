@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 aiogram = "*"
+googlesearch-python = "*"
 
 [dev-packages]
 
